@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360773777137",
+    "project_id": "trustline-e3f31",
+    "storage_bucket": "trustline-e3f31.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360773777137:android:ecc4512aac974aff3e9b50",
+        "android_client_info": {
+          "package_name": "br.com.fiap.trustline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAthyhQlRfIctpw_8pRY3hwTTW_8iv7caE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
